@@ -3,3 +3,7 @@
 Emil Loer vertelt over DSL's. Hoe je die opbouwt en waar ze goed voor zijn.
 Daarna volgt een coding sessie en is er een mogelijkheid tot netwerken en 
 vragen.
+
+## DSL's
+
+## Code
